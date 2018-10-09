@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1ef044a-1bc7-40ea-beba-7a4dc8c172c1" name="Default Changelist" comment="" />
+    <list default="true" id="c1ef044a-1bc7-40ea-beba-7a4dc8c172c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +39,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3896" />
+          <entry key="java" value="3908" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3896" />
+          <entry key="JAVA" value="3908" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tretiakov/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -58,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
-              <caret line="335" column="9" selection-start-line="335" selection-start-column="9" selection-end-line="335" selection-end-column="9" />
+            <state relative-caret-position="1054">
+              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1978#1979#0" expanded="true" />
@@ -96,8 +98,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameSettingForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/MainForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/MainGameField.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java" />
       </list>
     </option>
   </component>
@@ -155,7 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539071500513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539071530172" />
     <property name="last_opened_file_path" value="D:/XO_prog_GUI/src/GameSettingsForm.java" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
@@ -222,7 +224,7 @@
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15647922" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15647922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,22 +365,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tretiakov/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tretiakov/app/GameLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="335" column="9" selection-start-line="335" selection-start-column="9" selection-end-line="335" selection-end-column="9" />
+        <state relative-caret-position="1054">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1978#1979#0" expanded="true" />
             <element signature="e#2017#2018#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tretiakov/app/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>

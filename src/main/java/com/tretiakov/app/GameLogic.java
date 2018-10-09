@@ -60,12 +60,7 @@ public class GameLogic {
             field[x][y] = s;
         }
 
-        /**
-         * Вес символов в колонке
-         *
-         * @param sign char
-         * @return int
-         */
+        // Вес символов в колонке
         private static int sumSignsInCol(char sign) {
             int counter;
             for (int i = 0; i < FIELD_SIZE; i++) {
@@ -86,12 +81,7 @@ public class GameLogic {
             return 0;
         }
 
-        /**
-         * Вес символов в строке
-         *
-         * @param sing char
-         * @return int
-         */
+        // Вес символов в строке
         private static int sumSignsInRow(char sing) {
             int counter;
             for (int i = 0; i < FIELD_SIZE; i++) {
@@ -112,12 +102,7 @@ public class GameLogic {
             return 0;
         }
 
-        /**
-         * Вес символов в прямой диагонали
-         *
-         * @param sing char
-         * @return int
-         */
+        // Вес символов в прямой диагонали
         private static int sumSignsInStraightDiagonal(char sing) {
             int counter = 0;
             for (int i = 0; i < FIELD_SIZE - 1; i++) {
@@ -141,12 +126,7 @@ public class GameLogic {
                 return 0;
         }
 
-        /**
-         * Вес символов в обратной диагонали
-         *
-         * @param sing char
-         * @return int
-         */
+        // Вес символов в обратной диагонали
         private static int sumSignsInReverseDiagonal(char sing) {
             int counter;
             counter = 0;
